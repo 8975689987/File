@@ -1,27 +1,25 @@
 [![MasterHead](https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif)]
-<h1 align="center">Hello!  I'm Omkar👋</h1>
+<h1 align="center">Hello!  I'm Jyoti👋</h1>
 
 <h6 align="center">Computer Science and Engineering Student!</h6>
 
 <h3 align="center" >🌱 Motivated and hard-working CSE undergraduate student with experience of working on software development and web development. ⚡Passionate to explore new technologies and use them in problem solving. Like to implement creative solutions 👨‍💻.</h3>
 <br/>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omkar-garvare.omkar-garvare&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyoti-Garvare.Jyoti-Garvare&"  />
 </div>
 <hr>
 
 <h3 align="left"> 🌐 Conect with me </h3>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/omkar-garvare-7aaba7234" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
-</a>
+ 
   
  <a href="https://github.com/omkar-garvare" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Spyware007 GitHub style="margin-bottom: 5px;" />
 </a>
 
-<a href="omkargarvare@gmail.com" target="_blank">
+<a href="garvarejyoti@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 <hr>
@@ -31,10 +29,7 @@
 
 
 <div align="left">
-   <a href="https://www.javatpoint.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-   </a>
+   
   <a href="https://www.w3schools.com/cpp/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -54,36 +49,14 @@
 <hr>
 
 
-<h3 align="left">💻 Web Tech</h3>
 
-<div align="left">
-  <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  </a>
-   <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-   </a>
-   <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-   </a>
-   <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-   </a>
-   <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-   </a>
-</div>
-<hr>
+  
 
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-garvare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=omkar-garvare&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyoti-Garvare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jyoti-Garvare&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <hr>
 <h3 align="left"> 📊 Coding profiles:</h3>
